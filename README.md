@@ -1,7 +1,7 @@
-# [Paul Stephen Edache](https://CounsellorDev.GitHub.io/)
+<hr />
+<h3 align="center">
 NodeJs | Flutter | Python
 
-![alt text](CousellorDev.jpg)
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
 
@@ -12,10 +12,12 @@ NodeJs | Flutter | Python
 <a href="mailto:counsellorstephen@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][hashnode]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][youtube]
-<br />
-
+<br>
 <hr />
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <Devs/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
  
 * Primary coding language: JavaScript.
 * I’m currently working on my portfolio.
@@ -42,6 +44,7 @@ Check out my latest videos on [YouTube](https://www.youtube.com/cousellorDev).
 ![Visitor Count](https://profile-counter.glitch.me/{CounsellorDev}/count.svg)
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<hr>
 
 [twitter]: https://twitter.com/CounsellorDev
 [youtube]: https://youtube.com/CounsellorDev
