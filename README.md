@@ -26,12 +26,17 @@ NodeJs | Flutter | Python
 * 😄 Pronouns: He/Him
 
 <table><tr><td valign="top" width="50%">
+
 ### My Digital Garden 🌱
-You can find my blogs at my [Website](https://ayushirawat.com).
+You can find my blogs at my [Website](https://CounsellorDev.GitHub.io).
+
 </td>
+
 <td valign="top" width="45%">
+
 ### The Developer Dictionary 🌱
-Check out my latest videos on [YouTube](https://www.youtube.com/cousellorDev):
+Check out my latest videos on [YouTube](https://www.youtube.com/cousellorDev).
+
 </td>
 
 ![Visitor Count](https://profile-counter.glitch.me/{CounsellorDev}/count.svg)
